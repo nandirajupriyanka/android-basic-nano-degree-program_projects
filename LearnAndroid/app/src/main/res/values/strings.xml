@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LearnAndroid</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="compose_email_with_this_score">Compose email with this score.</string>
+    <string name="which_of_the_following_is_a_view_group">Which of the following is a view group?</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="textview">TextView</string>
+    <string name="name_one_view_group_used_for_scrolling_the_content">Name one view group used for scrolling the content.</string>
+    <string name="which_of_the_following_is_a_view">Which of the following is a view.</string>
+    <string name="imageview">ImageView</string>
+    <string name="textview_incorrect">Textview</string>
+    <string name="progressbar">ProgressBar</string>
+    <string name="what_is_datatype_for_number_4">What is datatype for number 4?</string>
+    <string name="which_of_the_following_is_correct">Which of the following is correct?</string>
+    <string name="int_score_24">int score = 24;</string>
+    <string name="int_final_24">int final = 24;</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="your_score">" Your score for Learn Android test is "</string>
+    <string name="good_luck">Good Luck!</string>
+    <string name="hi">"Hi "</string>
+    <string name="email_not_set_up">Email is not setup on this device</string>
+    <string name="scroll_view">ScrollView</string>
+</resources>

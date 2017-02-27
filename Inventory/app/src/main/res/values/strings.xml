@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="edit_inventory_item">Edit Inventory Item</string>
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="supplier">Supplier</string>
+    <string name="order">Order</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="add_inventory_item">Add Inventory Item</string>
+    <string name="empty_msg">Click add button to add an inventory item.</string>
+    <string name="insert_inventory_failed">Insert Inventory Failed</string>
+    <string name="insert_inventory_successful">Insert Inventory Successful</string>
+    <string name="update_failed">Failed to update inventory</string>
+    <string name="update_successful">Successfully updated inventory</string>
+    <string name="delete_this_item">Delete this item?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_failed">Error with deleting item</string>
+    <string name="delete_successful">Item deleted</string>
+    <string name="select_picture">SELECT PICTURE</string>
+    <string name="havent_picked_image">You haven\'t picked Image</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="order_inventory">Order Inventory</string>
+    <string name="email_not_setup">Email not setup</string>
+    <string name="image_empty">Image is empty</string>
+    <string name="name_empty">Name is empty</string>
+    <string name="quantity_empty">Quantity is empty</string>
+    <string name="price_empty">Price is empty</string>
+    <string name="supplier_empty">Supplier is empty</string>
+    <string name="quantity_negative">Quantity is negative</string>
+    <string name="sale">Sale</string>
+</resources>

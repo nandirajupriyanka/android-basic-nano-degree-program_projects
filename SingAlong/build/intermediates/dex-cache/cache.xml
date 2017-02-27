@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_fee1af0638294632a38395af0ab7618602ed0d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_871cde26c75607ac7243c2759b332f299edb7693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1fe8b36cf9d55e04c3341b683aa3f54c675d7fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b28bc5547f3fdd7da1ae370355437c024db42fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6b5739699b305a2f49be998ecc632755809fb24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b1b104f678f21314d9c32e76449c186b1e0f991a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_87c819180f3d7a1d3cafc147cdbd209dcdb3a2a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_680f2910637e8921e1a8e0712c43c5d2bd4bcaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_2be3ac0e63d03c5b8bcd30fb04aaa2fee4db921c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8e9f7b29445fd1f449e0f7704d1778d26d68c8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_4690c5c11dafee5d2ff617b7fff12745a6dcfbd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b6ac05421390af546e4f54f1b0a7f2f98ff2c58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c02f22f49ff111e74163e873a72c920657a76919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b93dfb38e4ca1b8aec87eb27a4df978f102fe6e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/priyankanandiraju/Desktop/Android_Basic_Nanodegree_Projects/SingAlong/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_9f1a7936067bf80d07de1b1800475958615764a9.jar" />
+    </item>
+
+</items>

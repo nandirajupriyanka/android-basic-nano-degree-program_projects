@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">DallasTourGuide</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="reunion_tower">Reunion Tower</string>
+    <string name="reunion_loc">Reunion Tower, Dallas, TX 75207</string>
+    <string name="pioneer">Pioneer Plaza</string>
+    <string name="pioneer_loc">1428 Young St, Dallas, TX 75202</string>
+    <string name="sixth_floor">The Sixth Floor Museum</string>
+    <string name="sixth_floor_loc">411 Elm St, Dallas, TX 75202</string>
+    <string name="dragon_park">Dragon park</string>
+    <string name="dragon_park_loc">3520 Cedar Springs Rd, Dallas, TX 75219</string>
+    <string name="food_1">Dallas Grilled Cheese Co.</string>
+    <string name="food_1_loc">310 W 7th St, Dallas, TX 75208</string>
+    <string name="food_2">Velvet Taco</string>
+    <string name="food_2_loc">2700 W 7th St, Fort Worth, TX 76107</string>
+    <string name="food_3">CrushCraft Thai place</string>
+    <string name="food_3_loc">2800 Routh St #150, Dallas, TX 75201</string>
+    <string name="food_4">Glazed Donut Works</string>
+    <string name="food_4_loc">2644 Elm St, Dallas, TX 75226</string>
+    <string name="event_1">The Chainsmokers</string>
+    <string name="event_2">OneRepublic</string>
+    <string name="event_3">Epica</string>
+    <string name="event_1_loc">American Airlines Center</string>
+    <string name="event_2_loc">House of Blues Dallas</string>
+    <string name="evenmt_3_loc">Gas Monkey Live!</string>
+    <string name="nov_3">3 NOV</string>
+    <string name="nov_4">4 NOV</string>
+    <string name="shop_1">Galleria Dallas</string>
+    <string name="shop_2">NorthPark Center</string>
+    <string name="shop_3">Allen Premium Outlets</string>
+    <string name="shop_4">Stonebriar Centre</string>
+    <string name="shop_1_loc">13350 Dallas Pkwy, Dallas, TX 75240</string>
+    <string name="shop_2_loc">8687 N Central Expy, Dallas, TX 75225</string>
+    <string name="shop_3_loc">820 Stacy Rd, Allen, TX 75013</string>
+    <string name="shop_4_loc">2601 Preston Rd, Frisco, TX 75034</string>
+    <string name="coffee_1">Houndstooth Coffee</string>
+    <string name="coffee_2">Ascension Coffee</string>
+    <string name="coffee_3">Local Press + Brew</string>
+    <string name="coffee_4">Weekend Coffee</string>
+    <string name="coffee_1_loc">1900 N Henderson Ave, Dallas, TX 75206</string>
+    <string name="coffee_2_loc">1621 Oak Lawn Ave A, Dallas, TX 75207</string>
+    <string name="coffee_3_loc">1605 N Beckley Ave, Dallas, TX 75203</string>
+    <string name="coffee_4_loc">1511 Commerce St, Dallas, TX 75201</string>
+    <string-array name="category">
+        <item>PLACES</item>
+        <item>FOOD</item>
+        <item>EVENTS</item>
+        <item>COFFEE</item>
+        <item>SHOP</item>
+    </string-array>
+</resources>
